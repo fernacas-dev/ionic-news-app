@@ -1,1 +1,1 @@
-Este proyecto es una aplicacion de noticias usando la API de https://newsapi.org/
+This project is a news application using the https://newsapi.org/ API in Ionic Framework & Angular
